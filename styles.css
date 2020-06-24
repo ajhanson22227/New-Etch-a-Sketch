@@ -1,13 +1,16 @@
 body{ 
     margin: 0;
     padding: 0;
+    background-color: gray;
 }
 
 #etchContainer{
-    height: 500px;
-    width: 500px;
+    background-color: white;
+    display: grid;
+    width: 50vw;
+    height: 50vw;
     margin: auto;
-    border: 1px solid red;
+    border: 2px red solid;
 }
 
 .etchSquare{
