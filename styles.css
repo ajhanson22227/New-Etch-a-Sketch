@@ -7,9 +7,10 @@ body{
 #etchContainer{
     background-color: white;
     display: grid;
-    width: 80vh;
-    height: 80vh;
+    width: 75vh;
+    height: 75vh;
     margin: auto;
+    margin-top: 25px;
     border: 2px red solid;
     border-radius: 10px;
 }
